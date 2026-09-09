@@ -32,8 +32,7 @@ export const Hero = () => {
           Code <GradientText className="purple-teal">faster.</GradientText>
         </Title>
         <Details>
-          Vivid makes front-end development effortless with our in-browser
-          visual editor to modify your code.
+          Vivid has been acquired by Vercel. 
         </Details>
         <WaitlistForm
           id="hero-waitlist"
